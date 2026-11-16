@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.gradle/
+*.iml
+.idea/
+.DS_Store
+.env
+*.apk
+*.aab
+local.properties
